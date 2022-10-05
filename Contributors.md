@@ -2383,6 +2383,6 @@
 - [Daniel Freire](https://github.com/proxyanon)
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
-
+- [Ebenezer Manka](https://github.com/ebenezer0311)
 
 <!-- prettier-ignore-end -->
